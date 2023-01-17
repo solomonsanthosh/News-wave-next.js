@@ -1,0 +1,20 @@
+.main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background: url('https://free4kwallpapers.com/uploads/originals/2022/02/02/tesla-*-wallpaper.png') center/contain;
+}
+
+
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255,1);
+  padding: 1rem;
+  border-radius: 10px;
+}
